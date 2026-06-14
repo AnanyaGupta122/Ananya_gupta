@@ -1,0 +1,19 @@
+PixelVault is a browser-based indie game discovery and publishing platform designed for players and independent game developers.
+
+The platform allows users to discover games through curated content, browse a categorized game library, create personal collections, submit ratings and reviews, and manage profile activity. Developers can publish game listings, monitor engagement metrics, and manage their content through a dedicated dashboard.
+
+The primary audience includes players looking for browser-based indie games and developers seeking a platform to showcase their games.
+
+Core functionality includes:
+
+* Game discovery through featured and trending content
+* Search and filtering within the game library
+* Detailed game information pages
+* User registration and login
+* Collections management
+* Ratings and reviews
+* Developer dashboard and analytics
+* Game submission workflow
+* Administrative moderation tools
+
+The project is delivered as a responsive web application intended for desktop, tablet, and mobile browsers.

@@ -1,0 +1,78 @@
+# Scope of Work
+
+## In Scope
+
+The project includes the design and development of the following features:
+
+* Homepage
+
+  * Navigation Bar
+  * Hero Section
+  * Featured Games
+  * Trending Games
+  * Game of the Week
+  * Genre Browsing
+  * Footer
+
+* Game Library
+
+  * Search Functionality
+  * Genre Filtering
+  * Sorting Controls
+  * Game Card Grid
+
+* Game Detail Pages
+
+  * Game Information
+  * Developer Information
+  * Screenshot Gallery
+  * Ratings Section
+  * Reviews Section
+  * Play Game Button
+
+* User Features
+
+  * Registration
+  * Login
+  * User Profile
+  * Collections Management
+  * Ratings Submission
+  * Reviews Submission
+
+* Developer Features
+
+  * Dashboard Overview
+  * My Games
+  * Game Submission Form
+  * Analytics Section
+  * Recent Activity
+
+* Administrative Features
+
+  * Game Approval
+  * Game Rejection
+  * Review Moderation
+  * Featured Content Management
+
+* Responsive Support
+
+  * Mobile Layouts
+  * Tablet Layouts
+  * Desktop Layouts
+
+## Out of Scope
+
+The project does not include:
+
+* Backend APIs
+* Database Integration
+* Payment Processing
+* Subscription Systems
+* Multiplayer Functionality
+* Live Chat
+* Streaming Features
+* Native Desktop Applications
+* Push Notifications
+* Real-Time Messaging
+* Third-Party Payment Gateways
+* Cloud Infrastructure Configuration

@@ -1,0 +1,31 @@
+1. The submission includes a Homepage page.                                                                                                         
+2. The Homepage includes a Navigation Bar and Hero Section.                                                                                        
+3. The Homepage includes Featured Games, Trending Games, and Game of the Week sections.                                                            
+4. The Homepage includes a Genre Browsing section and a Footer section.                                                                            
+5. The Navigation Bar provides routes to the Homepage, Game Library page, User Profile page, and Developer Dashboard page.                         
+6. The submission includes a Game Library page.                                                                                                    
+7. The Game Library page includes search functionality, genre filtering functionality, and sorting controls.                                       
+8. Game cards display a cover image, game title, genre, and rating.                                                                                
+9. The submission includes a Game Detail page.                                                                                                     
+10. The Game Detail page displays game information, developer information, ratings, reviews, and a Play Game button.                                
+11. The Game Detail page displays at least four screenshots.                                                                                        
+12. The submission includes a Registration page and a Login page.                                                                                   
+13. The submission includes a User Profile page.                                                                                                    
+14. Users can create collections, save games to collections, and remove games from collections.                                                     
+15. Users can submit ratings and reviews.                                                                                                           
+16. The submission includes a Developer Dashboard page.                                                                                             
+17. The Dashboard Overview displays Total Games, Published Games, Draft Games, and Total Views.                                                     
+18. The My Games section displays a game title, status, and last updated date.                                                                      
+19. The Analytics section contains a line chart and an activity summary table.                                                                      
+20. The Developer Dashboard includes a Recent Activity section displaying developer activity records.                                               
+21. The Game Submission form includes fields for Game Title, Description, Genre, Cover Image, Screenshot Gallery, and Play URL.                     
+22. Administrative moderation supports approving games, rejecting games, removing reviews, marking games as featured, and removing featured status. 
+23. The application is built using React, TypeScript, Tailwind CSS, and React Router.                                                               
+24. The application uses JSON data files and Local Storage.                                                                                         
+25. The submission includes README.md, Dockerfile, and package.json.                                                                                
+26. The application functions on viewport widths from 320px to 767px.                                                                               
+27. The application functions on viewport widths from 768px to 1023px.                                                                              
+28. The application functions on viewport widths of 1024px and above.                                                                               
+29. The application functions without requiring backend APIs or database integration.                                                               
+
+
